@@ -1,10 +1,55 @@
-.Heading{
-    background-color: orange;
-    color: black;
+h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 74px;
+    font-family: Verdana, sans-serif;
+    background-color: tan;
+    height: 90px;
+    padding: 20px;
+    margin: 0 auto 0 auto;
+    width: 755px;
+    border-radius: 8px;
 }
 
-div{
+h2{
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+    background-color: tan;
     text-align: center;
+    margin: 0 auto 0 auto;
+    width: 800px;
+    height: 40px;
+    border-radius: 8px;
+    padding-top: 8px;
+}
+
+h3{
+    display: block;
+}
+
+.centering{
+    text-align: center;
+    font-size: 19px;
+    font-family: Verdana, sans-serif;
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+img{
+    display: block;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    margin-left: 300px;
+    position: static;
+}
+
+.background{
+    display: block;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+body{
+    background-color: blanchedalmond;
 }
